@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40301ucmf_22_0005.png"; bbox 0 0 2429 3816; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 28 579 482 733">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 28 579 482 733">
+     <span class='ocr_line' id='line_1_1' title="bbox 28 579 482 733; baseline -0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 28 579 282 733; x_wconf 77' lang='lat' dir='ltr'>ilmed</span> <span class='ocrx_word' id='word_1_2' title='bbox 323 579 482 732; x_wconf 77' lang='lat' dir='ltr'>For</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 851 790 1172">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 851 790 1172">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 851 790 1172; baseline -0.006 -115"><span class='ocrx_word' id='word_1_3' title='bbox 0 1000 11 1080; x_wconf 22' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_4' title='bbox 102 851 790 1172; x_wconf 67' lang='lat' dir='ltr'>ofChicaqo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 2806 727 3384">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 2806 727 3384">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 2806 727 3001; baseline -0.018 -38"><span class='ocrx_word' id='word_1_5' title='bbox 0 2806 616 3001; x_wconf 74' lang='lat' dir='ltr'>›operators</span> <span class='ocrx_word' id='word_1_6' title='bbox 726 2818 727 2823; x_wconf 7' lang='grc' dir='ltr'><em>Ὗ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 11 3013 468 3174; baseline -0.028 0"><span class='ocrx_word' id='word_1_7' title='bbox 11 3062 60 3174; x_wconf 87' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_8' title='bbox 102 3013 468 3172; x_wconf 80' lang='lat' dir='ltr'>Bourizk</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 3221 523 3384; baseline -0.029 0"><span class='ocrx_word' id='word_1_9' title='bbox 43 3221 523 3384; x_wconf 79' lang='lat' dir='ltr'>routhame!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 320 1220 3816">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 320 1220 3816">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 320 1220 3816; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 320 1220 3816; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
